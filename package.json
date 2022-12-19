@@ -1,7 +1,7 @@
 {
   "name": "countries-flags",
   "version": "0.1.0",
-  "homepage": "https://leonov-va.github.io/react-countries/",
+  "homepage": "https://leonov-va.github.io/react-countries",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.1",
