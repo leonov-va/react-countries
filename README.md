@@ -20,3 +20,5 @@ This is a solution to the [REST Countries API with color theme switcher challeng
 [x] Создать фичу с детальной страницей (async)
 
 ```
+
+<!-- "homepage": "https://leonov-va.github.io/react-countries", -->

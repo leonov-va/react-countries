@@ -1,7 +1,7 @@
-import styled from "styled-components";
+import styled from 'styled-components';
 
-import { IoSearch } from "react-icons/io5";
-import { useSearch } from "../controls/useSearch";
+import { IoSearch } from 'react-icons/io5';
+import { useSearch } from './useSearch';
 
 const InputContainer = styled.label`
   background-color: var(--colors-ui-base);
@@ -21,8 +21,8 @@ const InputContainer = styled.label`
 `;
 
 const Input = styled.input.attrs({
-  type: "search",
-  placeholder: "Search for a country...",
+  type: 'search',
+  placeholder: 'Search for a country...',
 })`
   margin-left: 2rem;
   border: none;

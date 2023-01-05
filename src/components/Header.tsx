@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import styled from "styled-components";
-import { useCleanUp } from "../features/controls/useCleanUp";
+import { useCleanUp } from "features/controls/useCleanUp";
 
 import { ThemeSwitcher } from "../features/theme/ThemeSwitcher";
 import { Container } from "./Container";
